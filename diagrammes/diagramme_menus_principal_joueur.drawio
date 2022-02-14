@@ -1,0 +1,149 @@
+<mxfile host="app.diagrams.net" modified="2021-11-26T21:51:08.195Z" agent="5.0 (Windows)" etag="tVWEXwTYujOQQvGC4ykR" version="15.8.6" type="gitlab">
+  <diagram id="0lfiEkSf-DLNHiGnVsiy" name="Page-1">
+    <mxGraphModel dx="1038" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="08OZTOmOcg2OdFrYJOku-1" value="Dés révélés" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f8cecc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="90" y="110" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-2" value="Liste des dés révélés de la partie" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="08OZTOmOcg2OdFrYJOku-1">
+          <mxGeometry y="26" width="160" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="08OZTOmOcg2OdFrYJOku-7" target="08OZTOmOcg2OdFrYJOku-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="08OZTOmOcg2OdFrYJOku-7" target="08OZTOmOcg2OdFrYJOku-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.011;entryY=0.744;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="08OZTOmOcg2OdFrYJOku-7" target="08OZTOmOcg2OdFrYJOku-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-7" value="Gestion Personnage Joueur" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f8cecc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="570" y="135" width="180" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-8" value="Me déplacer" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="08OZTOmOcg2OdFrYJOku-7">
+          <mxGeometry y="26" width="180" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-9" value="Modifier le nom de mon personnage" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="08OZTOmOcg2OdFrYJOku-7">
+          <mxGeometry y="60" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-10" value="Consulter les caractéristiques de mon personnage" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="08OZTOmOcg2OdFrYJOku-7">
+          <mxGeometry y="110" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-11" value="Gérer mes équipementts" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="08OZTOmOcg2OdFrYJOku-7">
+          <mxGeometry y="150" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-13" value="Eléments révélés" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f8cecc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="90" y="200" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-14" value="Liste des éléments révélés" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="08OZTOmOcg2OdFrYJOku-13">
+          <mxGeometry y="26" width="160" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.994;entryY=0.182;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="08OZTOmOcg2OdFrYJOku-15" target="08OZTOmOcg2OdFrYJOku-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.013;entryY=0.265;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="08OZTOmOcg2OdFrYJOku-15" target="08OZTOmOcg2OdFrYJOku-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="08OZTOmOcg2OdFrYJOku-15" target="08OZTOmOcg2OdFrYJOku-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="08OZTOmOcg2OdFrYJOku-15" target="08OZTOmOcg2OdFrYJOku-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="08OZTOmOcg2OdFrYJOku-15" target="08OZTOmOcg2OdFrYJOku-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-15" value="Menu Joueur" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f8cecc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="360" y="120" width="160" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-16" value="Se déplacer ou gérer les caractéristiques de mon personnage" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="08OZTOmOcg2OdFrYJOku-15">
+          <mxGeometry y="26" width="160" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-17" value="Consulter les éléments révélés sur la carte actuelle" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="08OZTOmOcg2OdFrYJOku-15">
+          <mxGeometry y="80" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-18" value="Consulter un dé de la partie" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="08OZTOmOcg2OdFrYJOku-15">
+          <mxGeometry y="120" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-19" value="Attaquer un monstre à portée" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="08OZTOmOcg2OdFrYJOku-15">
+          <mxGeometry y="150" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-20" value="Ramasser un équipement" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="08OZTOmOcg2OdFrYJOku-15">
+          <mxGeometry y="190" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-21" value="Ramasser équipements" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f8cecc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="90" y="290" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-22" value="Quel équipement souhaitez-vous ramasser ?" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="08OZTOmOcg2OdFrYJOku-21">
+          <mxGeometry y="26" width="160" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.841;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="08OZTOmOcg2OdFrYJOku-27" target="08OZTOmOcg2OdFrYJOku-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-27" value="Attaquer Monstres" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f8cecc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="360" y="402.5" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-28" value="Quels monstres souhaitez-vous attaquer ?" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="08OZTOmOcg2OdFrYJOku-27">
+          <mxGeometry y="26" width="160" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-33" value="Attaquer Equipement" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f8cecc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="80" y="380" width="180" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-34" value="Quel équipement voulez-vous utiliser ?" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="08OZTOmOcg2OdFrYJOku-33">
+          <mxGeometry y="26" width="180" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-35" value="Voulez-vous révéler la valeur du dé à l&#39;ensemble des joueurs ?" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="08OZTOmOcg2OdFrYJOku-33">
+          <mxGeometry y="70" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-42" value="Me déplacer" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f8cecc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="790" y="171.25" width="180" height="117.5" as="geometry" />
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-43" value="Où voulez-vous vous déplacer horizontalement ?" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="08OZTOmOcg2OdFrYJOku-42">
+          <mxGeometry y="26" width="180" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-44" value="Où voulez-vous vous déplacer verticalement ?" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="08OZTOmOcg2OdFrYJOku-42">
+          <mxGeometry y="70" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-47" value="Modifier nom" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f8cecc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="580" y="20" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-48" value="Rentrer votre nouveau nom" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="08OZTOmOcg2OdFrYJOku-47">
+          <mxGeometry y="26" width="160" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.011;entryY=0.812;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="08OZTOmOcg2OdFrYJOku-49" target="08OZTOmOcg2OdFrYJOku-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-49" value="Equipement Personnage Joueur" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f8cecc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="560" y="405.63" width="200" height="73.75" as="geometry" />
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-50" value="Liste des équipements de votre personnage" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="08OZTOmOcg2OdFrYJOku-49">
+          <mxGeometry y="26" width="200" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-54" value="Gestion Equipement" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f8cecc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="790" y="397.51" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-55" value="Consulter ses caractéristiques " style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="08OZTOmOcg2OdFrYJOku-54">
+          <mxGeometry y="26" width="180" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-56" value="Jeter cet équipement" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="08OZTOmOcg2OdFrYJOku-54">
+          <mxGeometry y="50" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="08OZTOmOcg2OdFrYJOku-71" target="08OZTOmOcg2OdFrYJOku-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-71" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="420" y="40" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="08OZTOmOcg2OdFrYJOku-73" value="Interface initiale du menu joueur" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="45" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

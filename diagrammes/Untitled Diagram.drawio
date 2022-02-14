@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" modified="2021-11-26T21:08:30.208Z" agent="5.0 (Windows)" etag="bCz3BhuxXAa95LPBPHfS" version="15.8.6" type="gitlab">
+  <diagram id="M-rCeXcOhAYK56BEAQmk" name="Page-1">
+    <mxGraphModel dx="1865" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7hINhdobQ8tZ4lOab_4l-1" value="Campagne en cours" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f8cecc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="490" y="298" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7hINhdobQ8tZ4lOab_4l-2" value="Quelle campagne voulez-vous rejoindre ?" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7hINhdobQ8tZ4lOab_4l-1">
+          <mxGeometry y="26" width="160" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="7hINhdobQ8tZ4lOab_4l-3" value="Gestion du compte" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f8cecc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="295" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7hINhdobQ8tZ4lOab_4l-15" value="Modifier mon mot de passe" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7hINhdobQ8tZ4lOab_4l-3">
+          <mxGeometry y="26" width="240" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="7hINhdobQ8tZ4lOab_4l-4" value="Supprimer mon compte" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7hINhdobQ8tZ4lOab_4l-3">
+          <mxGeometry y="50" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7hINhdobQ8tZ4lOab_4l-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7hINhdobQ8tZ4lOab_4l-5" target="7hINhdobQ8tZ4lOab_4l-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7hINhdobQ8tZ4lOab_4l-5" value="Nouvelles Campagnes" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f8cecc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="240" y="468" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7hINhdobQ8tZ4lOab_4l-6" value="Quelle campagne voulez-vous rejoindre ?" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7hINhdobQ8tZ4lOab_4l-5">
+          <mxGeometry y="26" width="160" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="7hINhdobQ8tZ4lOab_4l-8" value="Choix Rôle" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f8cecc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="460" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="7hINhdobQ8tZ4lOab_4l-9" value="Joueur" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7hINhdobQ8tZ4lOab_4l-8">
+          <mxGeometry y="26" width="180" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="7hINhdobQ8tZ4lOab_4l-14" value="Maître du Jeu" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7hINhdobQ8tZ4lOab_4l-8">
+          <mxGeometry y="60" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7hINhdobQ8tZ4lOab_4l-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.012;entryY=0.205;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7hINhdobQ8tZ4lOab_4l-10" target="7hINhdobQ8tZ4lOab_4l-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7hINhdobQ8tZ4lOab_4l-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7hINhdobQ8tZ4lOab_4l-10" target="7hINhdobQ8tZ4lOab_4l-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7hINhdobQ8tZ4lOab_4l-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7hINhdobQ8tZ4lOab_4l-10" target="7hINhdobQ8tZ4lOab_4l-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7hINhdobQ8tZ4lOab_4l-10" value="Entrée Campagne" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f8cecc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="240" y="258" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="7hINhdobQ8tZ4lOab_4l-11" value="Commencer une nouvelle campagne" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7hINhdobQ8tZ4lOab_4l-10">
+          <mxGeometry y="26" width="160" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="7hINhdobQ8tZ4lOab_4l-12" value="Reprendre une campagne en cours" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7hINhdobQ8tZ4lOab_4l-10">
+          <mxGeometry y="70" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7hINhdobQ8tZ4lOab_4l-13" value="Modifier mon mot de passe ou supprimer mon compte" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7hINhdobQ8tZ4lOab_4l-10">
+          <mxGeometry y="110" width="160" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

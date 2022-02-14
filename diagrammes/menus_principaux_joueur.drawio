@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" modified="2021-12-06T14:18:39.826Z" agent="5.0 (Windows)" etag="_IDpLaw02fYLzVX3LrDv" version="15.9.1" type="gitlab">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="782" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="8ehFl8Fq8nZ_1sR4wq3G-1" value="Gestion Personnage Joueur" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f8cecc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="60" width="180" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="8ehFl8Fq8nZ_1sR4wq3G-2" value="Me déplacer" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="8ehFl8Fq8nZ_1sR4wq3G-1">
+          <mxGeometry y="26" width="180" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="8ehFl8Fq8nZ_1sR4wq3G-3" value="Modifier le nom de mon personnage" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="8ehFl8Fq8nZ_1sR4wq3G-1">
+          <mxGeometry y="60" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8ehFl8Fq8nZ_1sR4wq3G-4" value="Consulter les caractéristiques de mon personnage" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="8ehFl8Fq8nZ_1sR4wq3G-1">
+          <mxGeometry y="100" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8ehFl8Fq8nZ_1sR4wq3G-5" value="Gérer mes équipements" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="8ehFl8Fq8nZ_1sR4wq3G-1">
+          <mxGeometry y="140" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ehFl8Fq8nZ_1sR4wq3G-15" value="Retourner au menu précédent" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="8ehFl8Fq8nZ_1sR4wq3G-1">
+          <mxGeometry y="170" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8ehFl8Fq8nZ_1sR4wq3G-6" value="Menu principal joueur" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f8cecc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="70" y="60" width="230" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="8ehFl8Fq8nZ_1sR4wq3G-7" value="Se déplacer ou gérer les caractéristiques de mon personnage" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="8ehFl8Fq8nZ_1sR4wq3G-6">
+          <mxGeometry y="26" width="230" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="8ehFl8Fq8nZ_1sR4wq3G-8" value="Consulter les éléments révélés sur la carte actuelle" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="8ehFl8Fq8nZ_1sR4wq3G-6">
+          <mxGeometry y="70" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8ehFl8Fq8nZ_1sR4wq3G-9" value="Consulter un dé révélé de la partie" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="8ehFl8Fq8nZ_1sR4wq3G-6">
+          <mxGeometry y="110" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ehFl8Fq8nZ_1sR4wq3G-12" value="Retourner au menu d&#39;entrée dans une campagne" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="8ehFl8Fq8nZ_1sR4wq3G-6">
+          <mxGeometry y="140" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8ehFl8Fq8nZ_1sR4wq3G-10" value="Attaquer un monstre à portée" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="8ehFl8Fq8nZ_1sR4wq3G-6">
+          <mxGeometry y="190" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ehFl8Fq8nZ_1sR4wq3G-11" value="Ramasser un équipement" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="8ehFl8Fq8nZ_1sR4wq3G-6">
+          <mxGeometry y="220" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ehFl8Fq8nZ_1sR4wq3G-14" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;" edge="1" parent="8ehFl8Fq8nZ_1sR4wq3G-6" source="8ehFl8Fq8nZ_1sR4wq3G-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-30" y="140" as="sourcePoint" />
+            <mxPoint x="230" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ehFl8Fq8nZ_1sR4wq3G-16" value="Gestion Equipement" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f8cecc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="270" y="370" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8ehFl8Fq8nZ_1sR4wq3G-17" value="Consulter les caractéristiques " style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="8ehFl8Fq8nZ_1sR4wq3G-16">
+          <mxGeometry y="26" width="180" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="8ehFl8Fq8nZ_1sR4wq3G-18" value="Jeter cet équipement" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="8ehFl8Fq8nZ_1sR4wq3G-16">
+          <mxGeometry y="60" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ehFl8Fq8nZ_1sR4wq3G-19" value="Retourner au menu précédent" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="8ehFl8Fq8nZ_1sR4wq3G-16">
+          <mxGeometry y="90" width="180" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

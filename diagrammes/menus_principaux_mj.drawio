@@ -1,0 +1,28 @@
+<mxfile host="app.diagrams.net" modified="2021-12-06T14:16:16.908Z" agent="5.0 (Windows)" etag="LUTjNhbJRI0vJF53cfrY" version="15.9.1" type="gitlab">
+  <diagram id="UHWSsbKDNUfgyuczmrEu" name="Page-1">
+    <mxGraphModel dx="947" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gZf3Tc5fKUfZSE_8ADft-1" value="Menu principal mj" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="70" y="60" width="230" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="gZf3Tc5fKUfZSE_8ADft-2" value="Gérer les cartes et leurs éléments" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="gZf3Tc5fKUfZSE_8ADft-1">
+          <mxGeometry y="26" width="230" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="gZf3Tc5fKUfZSE_8ADft-3" value="Gérer les personnages de la campagne" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="gZf3Tc5fKUfZSE_8ADft-1">
+          <mxGeometry y="60" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gZf3Tc5fKUfZSE_8ADft-4" value="Gérer ou consulter les dés de la partie" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="gZf3Tc5fKUfZSE_8ADft-1">
+          <mxGeometry y="90" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gZf3Tc5fKUfZSE_8ADft-9" value="Modifier ou supprimer la campagne" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="gZf3Tc5fKUfZSE_8ADft-1">
+          <mxGeometry y="120" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gZf3Tc5fKUfZSE_8ADft-5" value="Retourner au menu d&#39;entrée dans une campagne" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="gZf3Tc5fKUfZSE_8ADft-1">
+          <mxGeometry y="150" width="230" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
